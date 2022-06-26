@@ -1,0 +1,53 @@
+Sajtburger;90;3
+4
+Hamburger pogácsa;top_bun;Top_Bun
+Sajt;cut_cheese;Cut_cheese
+Marhahús;cooked_burgermeat;Cooked_burgermeat
+Hamburger pogácsa;bottom_bun;Bottom_Bun
+---------------------------------------------
+Vegaburger;110;5
+6
+Hamburger pogácsa;top_bun;Top_Bun
+Saláta;lettuce;Lettuce
+Sajt;cut_cheese;Cut_cheese
+Saláta;lettuce;Lettuce
+Paradicsom;cut_tomato;Cut_tomato
+Hamburger pogácsa;bottom_bun;Bottom_Bun
+---------------------------------------------
+Whopper;120;40
+6
+Hamburger pogácsa;top_bun;Top_Bun
+Paradicsom;cut_tomato;Cut_tomato
+Sajt;cut_cheese;Cut_cheese
+Marhahús;cooked_burgermeat;Cooked_burgermeat
+Saláta;lettuce;Lettuce
+Hamburger pogácsa;bottom_bun;Bottom_Bun
+---------------------------------------------
+Megaburgir;130;55
+8
+Hamburger pogácsa;top_bun;Top_Bun
+Paradicsom;cut_tomato;Cut_tomato
+Sajt;cut_cheese;Cut_cheese
+Marhahús;cooked_burgermeat;Cooked_burgermeat
+Sajt;cut_cheese;Cut_cheese
+Marhahús;cooked_burgermeat;Cooked_burgermeat
+Saláta;lettuce;Lettuce
+Hamburger pogácsa;bottom_bun;Bottom_Bun
+---------------------------------------------
+Vegaburger;120;70
+6
+Hamburger pogácsa;top_bun;Top_Bun
+Saláta;lettuce;Lettuce
+Sajt;cut_cheese;Cut_cheese
+Saláta;lettuce;Lettuce
+Paradicsom;cut_tomato;Cut_tomato
+Hamburger pogácsa;bottom_bun;Bottom_Bun
+---------------------------------------------
+Sajtburger;100;100
+4
+Hamburger pogácsa;top_bun;Top_Bun
+Sajt;cut_cheese;Cut_cheese
+Marhahús;cooked_burgermeat;Cooked_burgermeat
+Hamburger pogácsa;bottom_bun;Bottom_Bun
+---------------------------------------------
+.

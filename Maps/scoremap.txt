@@ -1,0 +1,3 @@
+bg;tile_leaderboard.png;1585;900
+startb;1200;700;200;150
+backb;300;700;200;150

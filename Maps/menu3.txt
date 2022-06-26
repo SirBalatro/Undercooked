@@ -1,0 +1,40 @@
+﻿Hekk sültkrumplival;90;3
+2
+Hekk;fried_hekk;Fried_hekk
+Sültkrumpli;potato_fried;Fried_potato
+---------------------------------------------
+Tejfölös lángos;90;40
+2
+Lángos;fried_langos;Fried_langos
+Tejföl;sourcream;Sourcream
+---------------------------------------------
+Sajtos tejfölös lángos;110;90
+3
+Lángos;fried_langos;Fried_langos
+Sajt;cut_cheese;Cut_cheese
+Tejföl;sourcream;Sourcream
+---------------------------------------------
+Főtt kukorica;100;120
+1
+Kukorica;boiled_corn;Boiled_corn
+---------------------------------------------
+Séf kedvence hekk;140;140
+3
+Hekk;fried_hekk;Fried_hekk
+Sültkrumpli;potato_fried;Fried_potato
+Kukorica;boiled_corn;Boiled_corn
+---------------------------------------------
+Csak simán lángos;120;170
+1
+Lángos;fried_langos;Fried_langos
+---------------------------------------------
+Főtt kukorica;110;190
+1
+Kukorica;boiled_corn;Boiled_corn
+---------------------------------------------
+Sajtos lángos;120;200
+2
+Lángos;fried_langos;Fried_langos
+Sajt;cut_cheese;Cut_cheese
+---------------------------------------------
+.

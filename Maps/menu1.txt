@@ -1,0 +1,30 @@
+Sültcsirke krumplipürével;65;1
+2
+Krumplipüré;potato_mashed;Mashedpotato
+Sültcsirke;chicken_fried;Fried_chicken
+---------------------------------------------
+Sültcsirke főttkruplival;80;20
+2
+Főttkrumpli;potato_boiled;Potato_boiled
+Sültcsirke;chicken_fried;Fried_chicken
+---------------------------------------------
+Sültcsirke sültkruplival;90;45
+2
+Sültkrumpli;potato_fried;Fried_potato
+Sültcsirke;chicken_fried;Fried_chicken
+---------------------------------------------
+Sültcsirke krumplipürével;90;60
+2
+Krumplipüré;potato_mashed;Mashedpotato
+Sültcsirke;chicken_fried;Fried_chicken
+---------------------------------------------
+Sültcsirke sültkruplival;120;100
+2
+Sültkrumpli;potato_fried;Fried_potato
+Sültcsirke;chicken_fried;Fried_chicken
+---------------------------------------------
+Sültkrumpli;130;110
+1
+Sültkrumpli;potato_fried;Fried_potato
+---------------------------------------------
+.
